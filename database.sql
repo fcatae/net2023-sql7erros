@@ -16,7 +16,7 @@ GO
 create table tbLog(description varchar(1000));
 GO
 
-create login app with password='<password>'
+create login app with password='<password>' --User=app;Password=homework-set23
 create login aclogin with password='<password>'
 
 create user app
